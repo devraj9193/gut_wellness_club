@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="325" height="296" viewBox="0 0 325 296">
+  <g id="Background" fill="rgba(254,117,130,0.06)" stroke="rgba(0,0,0,0.2)" stroke-width="2" stroke-dasharray="10">
+    <rect width="325" height="296" rx="10" stroke="none"/>
+    <rect x="1" y="1" width="323" height="294" rx="9" fill="none"/>
+  </g>
+</svg>

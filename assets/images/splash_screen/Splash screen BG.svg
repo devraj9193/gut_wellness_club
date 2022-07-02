@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="393" height="830" viewBox="0 0 393 830">
+  <defs>
+    <filter id="Path_1708" x="0" y="0" width="393" height="830" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Splash_screen_BG_" data-name="Splash screen BG " transform="translate(-624 -1334)">
+    <g transform="matrix(1, 0, 0, 1, 624, 1334)" filter="url(#Path_1708)">
+      <path id="Path_1708-2" data-name="Path 1708" d="M30,0H345a30,30,0,0,1,30,30V782a30,30,0,0,1-30,30H30A30,30,0,0,1,0,782V30A30,30,0,0,1,30,0Z" transform="translate(9 6)" fill="#bb0a36"/>
+    </g>
+    <path id="Intersection_2" data-name="Intersection 2" d="M5.567,162A125.1,125.1,0,0,1,125,0a126.237,126.237,0,0,1,15,.891V132a30,30,0,0,1-30,30Z" transform="translate(773 1502) rotate(180)" opacity="0.1"/>
+    <path id="Intersection_5" data-name="Intersection 5" d="M5.567,162A125.1,125.1,0,0,1,125,0a126.237,126.237,0,0,1,15,.891V132a30,30,0,0,1-30,30Z" transform="translate(868 1990)" opacity="0.1"/>
+  </g>
+</svg>
